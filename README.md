@@ -1,2 +1,3 @@
-# ai-skill-sql-helper
-AI skill for writing, optimizing, debugging, and explaining SQL queries.
+# AI Skill: SQL Helper
+
+Writes, optimizes, and explains SQL queries.

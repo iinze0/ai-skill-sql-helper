@@ -1,0 +1,7 @@
+{
+  "skill": "sql-helper",
+  "test_cases": [
+    {"name": "write_query", "input": "Write a SQL query to find top customers by revenue", "assertions": ["Provides valid SQL", "Explains logic"]},
+    {"name": "optimize", "input": "Optimize this slow SQL query", "assertions": ["Suggests improvements", "Explains why"]}
+  ]
+}

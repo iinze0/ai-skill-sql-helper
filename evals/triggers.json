@@ -1,0 +1,8 @@
+{
+  "skill": "sql-helper",
+  "test_cases": [
+    {"input": "help me write a SQL query", "should_trigger": true},
+    {"input": "optimize this SQL", "should_trigger": true},
+    {"input": "improve this prompt", "should_trigger": false}
+  ]
+}
